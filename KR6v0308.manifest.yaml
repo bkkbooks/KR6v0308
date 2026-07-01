@@ -1,0 +1,758 @@
+canonical_identifier: bkk:krp/KR6v0308/v1
+canonical_location: https://kanripo.org/bkk/KR6v0308/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 冠導阿毗達磨俱舍論
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B06/B06n0009.xml
+    old_id: B06n0009
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0308_000.yaml, hash: 'sha256:b5bbff3769e72f07ae7b8a7ca7ae6dd248da9be46e5954fa5710a5dfde67eff9'}
+  - {seq: 1, filename: KR6v0308_001.yaml, hash: 'sha256:9a0e1b54293fe5b05d2bbbd5dce8367b56bda64594a8b74cd7e4ef516e58838d'}
+  - {seq: 2, filename: KR6v0308_002.yaml, hash: 'sha256:848618764b50ecc31c25787b57726c4aae9f2353420f3c75e02699689d87d965'}
+  - {seq: 3, filename: KR6v0308_003.yaml, hash: 'sha256:eb908cc6114573dcfc636e2df22574b24b509ad4e793c52a53c947d08446ed81'}
+  - {seq: 4, filename: KR6v0308_004.yaml, hash: 'sha256:8df83bab34d199d68032afe5a0ca16cce1e26e281c06f7a71e97acf96c51d7db'}
+  - {seq: 5, filename: KR6v0308_005.yaml, hash: 'sha256:1b14cbc946a4c4088de49622b5a24cefa58ba7dcc7b4cd98f26cb9228c325371'}
+  - {seq: 6, filename: KR6v0308_006.yaml, hash: 'sha256:6029b287e1008ff374700fb33187c73299330f932cb982d2d4a4a5a849e86c57'}
+  - {seq: 7, filename: KR6v0308_007.yaml, hash: 'sha256:633ddf006829721596df0a3a386b334b1fec394818dd8819f022c625085ba543'}
+  - {seq: 8, filename: KR6v0308_008.yaml, hash: 'sha256:5282caec8b17e6029157b0e2789d94bf08171680ddd697c3481451727cb75e86'}
+  - {seq: 9, filename: KR6v0308_009.yaml, hash: 'sha256:48f8eb1692dbd4db037beedf31eea94a9f8610af6060926b57f5ffb427b6d7b8'}
+  - {seq: 10, filename: KR6v0308_010.yaml, hash: 'sha256:61ab22ecda3fb1c981020bba7b0e14da42e0798ec9bd476377967540fb446bbb'}
+  - {seq: 11, filename: KR6v0308_011.yaml, hash: 'sha256:b3f185b74b75723edfd75e2fd081b393db28cecff0cac990185fa05da93df1ad'}
+  - {seq: 12, filename: KR6v0308_012.yaml, hash: 'sha256:94af23213f03d070a7b719680efe55df0753811bf09915262ef3adf8359a4062'}
+  - {seq: 13, filename: KR6v0308_013.yaml, hash: 'sha256:928abf5439d2d9b11cc55f0cb504bc0982a1f752b8ee49c1481058c5eed72b1d'}
+  - {seq: 14, filename: KR6v0308_014.yaml, hash: 'sha256:ce2f517a61d30ea1730a9ac62fc8dd03a457583c20f9f126f0006c3748edae97'}
+  - {seq: 15, filename: KR6v0308_015.yaml, hash: 'sha256:93df47d2b6ad56f03d64af023c9ea081517ecd8e4b48fb813c2bcdd5be5e312e'}
+  - {seq: 16, filename: KR6v0308_016.yaml, hash: 'sha256:13411a960ab96735fcd8b1cdc69947c3719634d4663b848ebfad08364931901c'}
+  - {seq: 17, filename: KR6v0308_017.yaml, hash: 'sha256:c1edc6e9550cfe4faa15f04e7306698e121115fbda1833eadb199f9115965085'}
+  - {seq: 18, filename: KR6v0308_018.yaml, hash: 'sha256:a0e975b2e27094dfad13293ba74078e257cdafa78252ddd334dfc753a70ce682'}
+  - {seq: 19, filename: KR6v0308_019.yaml, hash: 'sha256:def127b1d67e4058689cf3b014e9d2791c31619c0d0bc6e4ec91e078bac486d2'}
+  - {seq: 20, filename: KR6v0308_020.yaml, hash: 'sha256:f0a47c0e2906720fa7a3de21105d4c445e4bcb8194fd35575b66d56ca3984afc'}
+  - {seq: 21, filename: KR6v0308_021.yaml, hash: 'sha256:231b747bde896fb822246edf980d430503857c028e13229b72dbb1f509fbfd7b'}
+  - {seq: 22, filename: KR6v0308_022.yaml, hash: 'sha256:2f63b80f6683ebdf89ffe625f7ceeac83a75d30153286601f692f37279b17e2e'}
+  - {seq: 23, filename: KR6v0308_023.yaml, hash: 'sha256:c5201dd2b454d2e3c1cb9b4a701cf4089fd6e82b7e446a998e554a046dd68e82'}
+  - {seq: 24, filename: KR6v0308_024.yaml, hash: 'sha256:5147378bcf20df2b505a37cc4fed612a0f6f5670e13dc21f39730c9e0fb6c9b8'}
+  - {seq: 25, filename: KR6v0308_025.yaml, hash: 'sha256:09b9b607672dd0b7d67ac8aaa738bb45fc6b434f106c1bf08980401ce8d01154'}
+  - {seq: 26, filename: KR6v0308_026.yaml, hash: 'sha256:77be6dce31ba4d6303723dddcab579b3e8fbf213182d50c8d53ab637f11ff55e'}
+  - {seq: 27, filename: KR6v0308_027.yaml, hash: 'sha256:398122ffbd7f249b2b43cc5ccb8879d9bc558f5e8781f5093483581e9e47918c'}
+  - {seq: 28, filename: KR6v0308_028.yaml, hash: 'sha256:13b8dc5e9e0b5109025556dbc06be5b6b6d5de677c6600cd5551962e7b5541a0'}
+  - {seq: 29, filename: KR6v0308_029.yaml, hash: 'sha256:ee4d43205311ffdb284aa3031955ab542016d97159ca3950be54ff133db1118e'}
+  - {seq: 30, filename: KR6v0308_030.yaml, hash: 'sha256:a1452cae858462d61024ba3285784492917182b070c7b3a943aeca6796595592'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0308_000.markers.yaml, hash: 'sha256:27aca1b3a7fb94059592e6d930a4b28de3d85d3ccd68333782b256eb3af5f3c3'}
+  - {seq: 1, role: markers, filename: assets/KR6v0308_001.markers.yaml, hash: 'sha256:737aed4e3f528b3b31ef61f1a88241432249186cbaf964022fe20aba7ce6e61e'}
+  - {seq: 2, role: markers, filename: assets/KR6v0308_002.markers.yaml, hash: 'sha256:50fa7148b3f1a18878b95e7239aa0670248991dd5adaccc72fdd54c6a0eadd12'}
+  - {seq: 3, role: markers, filename: assets/KR6v0308_003.markers.yaml, hash: 'sha256:b54deae5b8ea47bbf23f8d52c943688f8a7bd17cdde98d12cf3e9fa9c9d16b83'}
+  - {seq: 4, role: markers, filename: assets/KR6v0308_004.markers.yaml, hash: 'sha256:b8f39619f7bee4521d1721e2f997245a3b8ee24b5941cc7889daf3837f674d83'}
+  - {seq: 5, role: markers, filename: assets/KR6v0308_005.markers.yaml, hash: 'sha256:f51a314907804982b4802e1167157d1f8ce5bedc28880050cadbad7b7ff14be0'}
+  - {seq: 6, role: markers, filename: assets/KR6v0308_006.markers.yaml, hash: 'sha256:f087cdd3fdc9a14aff90cf260a0fd68e03f7624e3057a4f4fd2b1e881fdbab53'}
+  - {seq: 7, role: markers, filename: assets/KR6v0308_007.markers.yaml, hash: 'sha256:d5665c142d2a9ff6015779b518f1f481079e8fba5b6b6f27b2fa594fe66d8951'}
+  - {seq: 8, role: markers, filename: assets/KR6v0308_008.markers.yaml, hash: 'sha256:50719e5d476f22d0b21c0b053d67e021c72b9916c7f8b6418de958d31b9451bc'}
+  - {seq: 9, role: markers, filename: assets/KR6v0308_009.markers.yaml, hash: 'sha256:93d755df7ce713ddab948dab2d987e077a314c0426772354ebb21b6d432c40d6'}
+  - {seq: 10, role: markers, filename: assets/KR6v0308_010.markers.yaml, hash: 'sha256:c46789b2221049814a2b2355fc1276bc6ae13e5cd503edd021bcd3d8543e91f5'}
+  - {seq: 11, role: markers, filename: assets/KR6v0308_011.markers.yaml, hash: 'sha256:821e54d594dee050bb309be4dc26db72241dd7c1539accab3ed238a02daf2dbc'}
+  - {seq: 12, role: markers, filename: assets/KR6v0308_012.markers.yaml, hash: 'sha256:d4922d9e5a5103e6d61e4a761051528766968637ac68a4f2cf9eebb6656d905d'}
+  - {seq: 13, role: markers, filename: assets/KR6v0308_013.markers.yaml, hash: 'sha256:e1a3bf4f7f311397f9d7c3ee7871386bf8be1f431867c1cedf86fd73fb41ec57'}
+  - {seq: 14, role: markers, filename: assets/KR6v0308_014.markers.yaml, hash: 'sha256:d0417a80830762b71f783da355ce857c21259d34b1e16665cbe5660476f5a88e'}
+  - {seq: 15, role: markers, filename: assets/KR6v0308_015.markers.yaml, hash: 'sha256:d152c635bd241352dbcf9222a6098e70635eb8daa55c7fdd6afc9dd37c965e05'}
+  - {seq: 16, role: markers, filename: assets/KR6v0308_016.markers.yaml, hash: 'sha256:95057fbf999d119cb0a4d2924cf6b5d51b7b0a80f087c3b331b00f9d9c097862'}
+  - {seq: 17, role: markers, filename: assets/KR6v0308_017.markers.yaml, hash: 'sha256:5eaf348af810ac99cc306013f20895333b95ffec2d20bd37a9a8b40274888deb'}
+  - {seq: 18, role: markers, filename: assets/KR6v0308_018.markers.yaml, hash: 'sha256:b59be455ccc1f5f9f1d5a72980d5cc18a9ad96b384e88a4e4555baf9bf130868'}
+  - {seq: 19, role: markers, filename: assets/KR6v0308_019.markers.yaml, hash: 'sha256:cfefb55f665be126b5da797eaeaa060a2df7e52d478122243ba98e82abaf008c'}
+  - {seq: 20, role: markers, filename: assets/KR6v0308_020.markers.yaml, hash: 'sha256:b035852f2ddd6d2d2a780427bb0b9fe5155e516cba53870e55833211ad031f41'}
+  - {seq: 21, role: markers, filename: assets/KR6v0308_021.markers.yaml, hash: 'sha256:3959718a0db59dd4e966aac4c0a66ad4d9892d4db944dd01ebbf282cbca7d409'}
+  - {seq: 22, role: markers, filename: assets/KR6v0308_022.markers.yaml, hash: 'sha256:ca51663bb8a88c63eaba6b422987c974e9e3461dc8e1b3afae966f0de7b084ed'}
+  - {seq: 23, role: markers, filename: assets/KR6v0308_023.markers.yaml, hash: 'sha256:ee3796c795c19acd89b677e50444bdcb8d099ca6c0ed7f7d9784f477f15dd03f'}
+  - {seq: 24, role: markers, filename: assets/KR6v0308_024.markers.yaml, hash: 'sha256:d012e53793b225b5d0ef9ffa65ce851f5602c30b7a506d9a6c1d78be8eff7e97'}
+  - {seq: 25, role: markers, filename: assets/KR6v0308_025.markers.yaml, hash: 'sha256:06f59374a1aa38341aa5e101cae1f22b69a128b9df382af66edf9b963b79f5bb'}
+  - {seq: 26, role: markers, filename: assets/KR6v0308_026.markers.yaml, hash: 'sha256:440e98bdc628d608bdecb500731dbba1203ec072551fb37b1f6fbb7cac699818'}
+  - {seq: 27, role: markers, filename: assets/KR6v0308_027.markers.yaml, hash: 'sha256:ee5c31b70ea2d7b170bc68584b1fb011e1ae5106072d0f01865ca481437460bc'}
+  - {seq: 28, role: markers, filename: assets/KR6v0308_028.markers.yaml, hash: 'sha256:948f73154599b3eaae5c9e2eb6e1dc935f0498bddd65d31bc8d2c39b30099fe3'}
+  - {seq: 29, role: markers, filename: assets/KR6v0308_029.markers.yaml, hash: 'sha256:52231eedec5894778cf4d38d11bc19ed06fa0f94b58d4338090ef21f1521762b'}
+  - {seq: 30, role: markers, filename: assets/KR6v0308_030.markers.yaml, hash: 'sha256:928e73aad3839fed3569c304b6ba7ff9590133e44c0747e3d5e7865e1c630c04'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0308_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0308_B_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: 二品勳一等晃親王殿下提辭
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0308_B_000-mulu-3
+    span:
+    - front
+    - 0
+    - 0
+  label: 山岡鐵舟居士題辞
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0308_B_000-mulu-4
+    span:
+    - front
+    - 16
+    - 16
+  label: 知恩院御門跡序文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0308_B_000-mulu-5
+    span:
+    - front
+    - 372
+    - 372
+  label: 相國寺大教正萩野獨園禪師序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0308_B_000-mulu-6
+    span:
+    - front
+    - 552
+    - 552
+  label: 泉涌寺佐伯旭雅律師自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0308_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 7701
+  label: 冠導阿毗達磨俱舍論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0308_B_001-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別界品第一之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0308_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 8508
+  label: 冠導阿毗達磨俱舍論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0308_B_002-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別界品第一之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0308_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 6629
+  label: 冠導阿毗達磨俱舍論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0308_B_003-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別根品第二之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0308_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 7345
+  label: 冠導阿毗達磨俱舍論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0308_B_004-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別根品第二之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0308_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 7988
+  label: 冠導阿毗達磨俱舍論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0308_B_005-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別根品第二之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0308_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 8618
+  label: 冠導阿毗達磨俱舍論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0308_B_006-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別根品第二之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0308_B_007-juan-start
+    span:
+    - body
+    - 0
+    - 6012
+  label: 冠導阿毗達磨俱舍論卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0308_B_007-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別根品第二之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0308_B_008-juan-start
+    span:
+    - body
+    - 0
+    - 6355
+  label: 冠導阿毗達磨俱舍論卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0308_B_008-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別世品第三之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0308_B_009-juan-start
+    span:
+    - body
+    - 0
+    - 7818
+  label: 冠導阿毗達磨俱舍論卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0308_B_009-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別世品第三之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0308_B_010-juan-start
+    span:
+    - body
+    - 0
+    - 6952
+  label: 冠導阿毗達磨俱舍論卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0308_B_010-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別世品第三之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0308_B_011-juan-start
+    span:
+    - body
+    - 0
+    - 6734
+  label: 冠導阿毘達磨俱舍論卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0308_B_011-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別世品第三之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0308_B_012-juan-start
+    span:
+    - body
+    - 0
+    - 7111
+  label: 冠導阿毘達磨俱舍論卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0308_B_012-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別世品第三之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0308_B_013-juan-start
+    span:
+    - body
+    - 0
+    - 6634
+  label: 冠導阿毗達磨俱舍論卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0308_B_013-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別業品第四之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0308_B_014-juan-start
+    span:
+    - body
+    - 0
+    - 7093
+  label: 冠導阿毗達磨俱舍論卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0308_B_014-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別業品第四之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6v0308_B_015-juan-start
+    span:
+    - body
+    - 0
+    - 7470
+  label: 冠導阿毗達磨俱舍論卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6v0308_B_015-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別業品第四之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6v0308_B_016-juan-start
+    span:
+    - body
+    - 0
+    - 6651
+  label: 冠導阿毘達磨俱舍論卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6v0308_B_016-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別業品第四之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0308_B_017-juan-start
+    span:
+    - body
+    - 0
+    - 6026
+  label: 冠導阿毗達磨俱舍論卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0308_B_017-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別業品第四之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6v0308_B_018-juan-start
+    span:
+    - body
+    - 0
+    - 6619
+  label: 冠導阿毘達磨俱舍論卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6v0308_B_018-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別業品第四之六
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0308_B_019-juan-start
+    span:
+    - body
+    - 0
+    - 7229
+  label: 冠導阿毘達磨俱舍論卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0308_B_019-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別隨眠品第五之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6v0308_B_020-juan-start
+    span:
+    - body
+    - 0
+    - 5906
+  label: 冠導阿毘達磨俱舍論卷第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6v0308_B_020-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別隨眠品第五之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6v0308_B_021-juan-start
+    span:
+    - body
+    - 0
+    - 6580
+  label: 冠導阿毘達磨俱舍論卷第二十一
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6v0308_B_021-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別隨眠品第五之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6v0308_B_022-juan-start
+    span:
+    - body
+    - 0
+    - 6594
+  label: 冠導阿毗達磨俱舍論卷第二十二
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6v0308_B_022-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別賢聖品第六之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6v0308_B_023-juan-start
+    span:
+    - body
+    - 0
+    - 6627
+  label: 冠導阿毘達磨俱舍論卷第二十三
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6v0308_B_023-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別賢聖品第六之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6v0308_B_024-juan-start
+    span:
+    - body
+    - 0
+    - 6882
+  label: 冠導阿毗達磨俱舍論卷第二十四
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6v0308_B_024-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別賢聖品第六之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6v0308_B_025-juan-start
+    span:
+    - body
+    - 0
+    - 6906
+  label: 冠導阿毘達磨俱舍論卷第二十五
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6v0308_B_025-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別賢聖品第六之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6v0308_B_026-juan-start
+    span:
+    - body
+    - 0
+    - 7391
+  label: 冠導阿毗達磨俱舍論卷第二十六
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6v0308_B_026-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別智品第七之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6v0308_B_027-juan-start
+    span:
+    - body
+    - 0
+    - 6332
+  label: 冠導阿毘達磨俱舍論卷第二十七
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6v0308_B_027-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別智品第七之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6v0308_B_028-juan-start
+    span:
+    - body
+    - 0
+    - 6737
+  label: 冠導阿毗達磨俱舍論卷第二十八
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6v0308_B_028-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別定品第八之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0308_B_029-juan-start
+    span:
+    - body
+    - 0
+    - 6323
+  label: 冠導阿毗達磨俱舍論卷第二十九
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0308_B_029-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 分別定品第八之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0308_B_029-mulu-2
+    span:
+    - body
+    - 2778
+    - 2778
+  label: 破執我品第九之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6v0308_B_030-juan-start
+    span:
+    - body
+    - 0
+    - 5824
+  label: 冠導阿毗達磨俱舍論卷第三十
+  type: juan
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6v0308_B_030-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 破執我品第九之二
+  type: mulu
+  level: 1
+hash: sha256:fa263ee64932cedd4ee54f01f4535726a212b9d8839df7de5f51b0c137d97a96
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
