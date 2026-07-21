@@ -19,7 +19,7 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0308_000-B.yaml, hash: 'sha256:905ebeed9c3a4e30de0bdd631e24f2fc9467023dc19ad201ab4ec3918255b68c'}
+  - {seq: 0, filename: KR6v0308_000-B.yaml, hash: 'sha256:fd459fd16dcdbb15960150026687232ef5936529539488b739562454dd6f3224'}
   - {seq: 1, filename: KR6v0308_001-B.yaml, hash: 'sha256:bca73ec9ad50208079d75df08d0481cbaa93ca74ba6820d5b859ec28875c4fb8'}
   - {seq: 2, filename: KR6v0308_002-B.yaml, hash: 'sha256:d057600370b64c1d734e9f294f98c835468858666b400c3512bd8f1ca06f243a'}
   - {seq: 3, filename: KR6v0308_003-B.yaml, hash: 'sha256:e0ff84f84eff02e6ae26f48e397e02ae50490294c2dd8ecee04d296d76fbbda0'}
@@ -51,7 +51,7 @@ assets:
   - {seq: 29, filename: KR6v0308_029-B.yaml, hash: 'sha256:eaf04868cf20bd35f2878cb3d67880489410413a00b65e5c19194fb0faae9711'}
   - {seq: 30, filename: KR6v0308_030-B.yaml, hash: 'sha256:89734921aadd16561a1044c60688a9e8c4d769af9a02682b1f8313747c213396'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0308_000-B.markers.yaml, hash: 'sha256:17019949622fd377300c93610deb455fb90d705916034f88a8b6c786a93b2183'}
+  - {seq: 0, role: markers, filename: assets/KR6v0308_000-B.markers.yaml, hash: 'sha256:5ebfb8e8cbb0a4a6357628be028ddd1a087c0c5d935f0029c0b58ee460094804'}
   - {seq: 1, role: markers, filename: assets/KR6v0308_001-B.markers.yaml, hash: 'sha256:f340ebbce168db267e94154b84cc15b41f0fb1bd9e7fd5eaf79eedef6d9760b9'}
   - {seq: 2, role: markers, filename: assets/KR6v0308_002-B.markers.yaml, hash: 'sha256:908538bf6ab494480ac4ad4a6286909896d50dfa80c08d926c5107c5851d0874'}
   - {seq: 3, role: markers, filename: assets/KR6v0308_003-B.markers.yaml, hash: 'sha256:3618009640ba5057dde95ee46e1231fe8609daabd52f76fb51e2b0fc628d778e'}
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0308_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -97,7 +97,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0308_B_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 二品勳一等晃親王殿下提辭
@@ -107,7 +107,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0308_B_000-mulu-3
     span:
-    - front
+    - body
     - 0
     - 0
   label: 山岡鐵舟居士題辞
@@ -117,7 +117,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0308_B_000-mulu-4
     span:
-    - front
+    - body
     - 16
     - 16
   label: 知恩院御門跡序文
@@ -127,7 +127,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0308_B_000-mulu-5
     span:
-    - front
+    - body
     - 372
     - 372
   label: 相國寺大教正萩野獨園禪師序
@@ -137,7 +137,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0308_B_000-mulu-6
     span:
-    - front
+    - body
     - 552
     - 552
   label: 泉涌寺佐伯旭雅律師自序
@@ -753,4 +753,4 @@ table_of_contents:
   label: 破執我品第九之二
   type: mulu
   level: 1
-hash: sha256:476ad10bb27acba4351f397371501870a5dee6d474d859f3583ecc0979c8cbe9
+hash: sha256:5e6284dc89b7b62568b60fbb04cf5e69d44d71a5596199cfad07f339126b8ac1
